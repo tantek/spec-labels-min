@@ -1,6 +1,6 @@
 # Issue Labels for Specifications
 
-When you're using a github repo as home for a technical specificaiton, eg a W3C spec, what issue labels should you use?
+When you're using a github repo to store a technical specificaiton, eg a W3C spec, what issue labels should you use?
 
 Here's one suggested set, presented as the issue lables on this repo.
 
