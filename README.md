@@ -19,4 +19,5 @@ Note that the "Commenter ..." and "Postponed" labels are for CLOSED issues, allo
 ## FAQ
 
 Q. What about a 'question' label?
+
 A. Questions should be treated as requests to clarify the spec
