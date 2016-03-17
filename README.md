@@ -2,6 +2,8 @@
 
 Eg For W3C spec development
 
+See examples on this repo.    See all the labels at: https://github.com/sandhawke/spec-labels-min/labels?sort=name-asc
+
 ## To copy to your repo
 
 1.  Delete all existing labels that you're not using
